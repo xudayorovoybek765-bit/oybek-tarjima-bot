@@ -1,10 +1,11 @@
+
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 from deep_translator import GoogleTranslator
 import easyocr
 import os
 
-TOKEN = "YANGI_TOKENINGIZ"
+TOKEN = "8698093520:AAF9kS2wJUPVzxlTtyuwES-nP1WRC6op_co"
 
 reader = easyocr.Reader(['en'])
 
