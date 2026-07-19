@@ -1,2 +1,7 @@
 python-telegram-bot==21.3
 deep-translator==1.11.4
+easyocr
+torch
+torchvision
+pillow
+langdetect
